@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prateek Sachan</h1>
-# 💫 About Me:
+ 💫 About Me:
 🔭 I’m working on learning data analytics and building a solid portfolio.<br>🌱 I’m currently learning data visualization and tools like  Tableau and Power BI<br>💬 Ask me about Machine Learning, Deep Learning, AI, and Java<br>⚡ Fun fact  **I think I am funny😜**
 
 
