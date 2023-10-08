@@ -33,15 +33,20 @@
   <img src="https://profile-counter.glitch.me/prateek08s/count.svg" />
 </p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+## 🔝 Top Contributed Repo
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=prateek08s&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=prateek08s&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+## 📈 GitHub Activity
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prateek08s&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
+</div>
 
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=prateek08s&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+## 🚀 Visitors Count
+<div align="center">
+  <a href="https://visitcount.itsvg.in/api?id=prateek08s&icon=5&color=5"><img src="https://visitcount.itsvg.in/api?id=prateek08s&icon=5&color=5" alt="Visitor Badge" /></a>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=prateek08s&icon=5&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
